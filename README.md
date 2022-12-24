@@ -1,6 +1,5 @@
 <p align="center">
   <p align="center">Languages i use</p>
-  
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,java,c,cs,java,jquery,mysql,py,bootstrap,sqlite" />
   <br>
   
