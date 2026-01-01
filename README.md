@@ -14,8 +14,6 @@
   <p align="center"><b>AI & Automation</b></p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=githubactions,workers,cloudflare,firebase,docker,azure" />
-    <br>
-    <i>Powered by n8n orchestration & MCP Protocol</i>
   </p>
   <br>
 
@@ -28,8 +26,6 @@
   <p align="center"><b>Where the magic happens</b></p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
-    <br>
-    <i>Daily driving <b>Cursor AI</b> with <b>Claude 3.5 Sonnet</b></i>
   </p>
   <br>
 
