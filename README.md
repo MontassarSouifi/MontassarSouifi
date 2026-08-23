@@ -21,7 +21,7 @@
 <h3 align="center">Frameworks & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,nestjs,express,strapi,flutter,spring,dotnet,laravel" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,nestjs,express,flutter,spring,dotnet,laravel" />
 </p>
 
 <h3 align="center">Cloud, DevOps & Infrastructure</h3>
