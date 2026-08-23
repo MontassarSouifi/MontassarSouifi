@@ -7,7 +7,7 @@
 
   <p align="center"><b>Software Engineering & Frameworks</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,nestjs,express,strapi,flutter,spring,dotnet,laravel" />
+    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,nestjs,express,flutter,spring,dotnet,laravel" />
   </p>
   <br>
 
