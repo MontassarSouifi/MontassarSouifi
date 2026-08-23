@@ -31,7 +31,7 @@
 
   <p align="center"><b>Connect</b></p>
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <a href="https://linkedin.com/in/montassarsouifi">
       <img src="https://skillicons.dev/icons?i=linkedin,github" />
     </a>
   </p>
