@@ -1,38 +1,38 @@
 <p align="center">
-  <p align="center"><b>Languages I use</b></p>
+  <p align="center"><b>Languages</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,dart,java,c,cs,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,dart,cs,sql" />
   </p>
   <br>
 
-  <p align="center"><b>Frameworks & Core Stack</b></p>
+  <p align="center"><b>Software Engineering & Frameworks</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,laravel,django,angular,dotnet,spring,symfony,vue" />
+    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,nestjs,express,strapi,flutter,spring,dotnet,laravel" />
   </p>
   <br>
 
-  <p align="center"><b>AI & Automation</b></p>
+  <p align="center"><b>Distributed Systems & Cloud</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=githubactions,workers,cloudflare,firebase,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,azure,gcp,nginx" />
   </p>
   <br>
 
-  <p align="center"><b>Design & Editing</b></p>
+  <p align="center"><b>Databases & Observability</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,prometheus,grafana" />
   </p>
   <br>
 
-  <p align="center"><b>Where the magic happens</b></p>
+  <p align="center"><b>Tools</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea" />
   </p>
   <br>
 
-  <p align="center"><b>Find me on</b></p>
+  <p align="center"><b>Connect</b></p>
   <p align="center">
     <a href="https://linkedin.com/in/YOUR_USERNAME">
-      <img src="https://skillicons.dev/icons?i=linkedin,instagram,twitter,stackoverflow,github" />
+      <img src="https://skillicons.dev/icons?i=linkedin,github" />
     </a>
   </p>
 </p>
